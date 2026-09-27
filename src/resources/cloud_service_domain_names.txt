@@ -1,0 +1,13 @@
+aliyun.com
+aliyuncs.com
+amazon.com
+amazonaws.com
+huaweicloud.com
+myhuaweicloud.com
+hwclouds-dns.com
+myqcloud.com
+tencent.com
+tencentcloudapi.com
+cloudfront.net
+qiniudns.net
+qiniudns.com

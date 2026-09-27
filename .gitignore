@@ -1,0 +1,10 @@
+
+.project
+/bin/
+/target/
+/.idea/
+.DS_Store
+*.iml
+/.settings/
+.classpath
+.ip2asn-v4.tsv
